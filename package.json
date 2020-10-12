@@ -7,7 +7,7 @@
     "start": "electron .",
     "test": "cucumber-js"
   },
-  "repository": "https://github.com/ericyahhh/spectron-cucumber-example",
+  "repository": "https://github.com/Awwinstead/spectron-cucumber-example",
   "keywords": [
     "Electron",
     "Spectron",
@@ -16,11 +16,8 @@
     "tutorial",
     "demo"
   ],
-  "author": "Eric Labod",
+  "author": "Alex Winstead",
   "license": "The Unlicense",
-  "bugs": {
-    "url": "https://github.com/ericyahhh/spectron-cucumber-example/issues"
-  },
   "devDependencies": {
     "chai": "^4.1.2",
     "cucumber": "^4.0.0",

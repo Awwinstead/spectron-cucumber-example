@@ -6,7 +6,7 @@ Based on [electron-quick-start](https://github.com/electron/electron-quick-start
 
 ## Setup
 ```
-git clone https://github.com/ericyahhh/spectron-cucumber-example
+git clone https://github.com/Awwinstead/spectron-cucumber-example
 cd spectron-cucumber-example
 npm install
 ```
